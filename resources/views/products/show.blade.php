@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Products Show Darshani</h1>
+    <h1>Products Show Darshani Kaushalya</h1>
     <hr/>
 
     <div class="bg-dark text-white rounded p-3">
